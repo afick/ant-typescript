@@ -187,7 +187,7 @@ export const Troubleshooting = (props: any) => {
         key: "description"
       },
       {
-        ...getColumnSearchProps("description"),
+        ...getColumnSearchProps("resolution"),
         title: "Resolution",
         dataIndex: "resolution",
         key: "resolution"
