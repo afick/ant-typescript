@@ -1,0 +1,30 @@
+{
+  "title": "Reset filters and sorters - antd@4.9.4",
+  "scripts": {
+    "test": "react-scripts test --env=jsdom",
+    "start": "react-scripts start",
+    "eject": "react-scripts eject",
+    "build": "react-scripts build"
+  },
+  "main": "index.js",
+  "devDependencies": {
+    "typescript": "^4.0.5",
+    "@types/node": "12.7.4"
+  },
+  "dependencies": {
+    "react-scripts": "^4.0.0",
+    "react-dom": "^16.14.0",
+    "react": "^16.14.0",
+    "antd": "4.9.4",
+    "@ant-design/icons": "latest"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "keywords": [],
+  "name": "ant-typescript-filters-on-table",
+  "description": ""
+}
